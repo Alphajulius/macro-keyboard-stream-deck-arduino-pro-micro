@@ -1,2 +1,2 @@
 # macro-keyboard-stream-deck-arduino-pro-micro
-This project allows you to make a macro keyboard thanks to an arduino pro micro and some mechanical keyboard switches . The switches are programmed to go from F13 to F21.There is also my youtube video (in french) to help you build it.
+This project allows you to make a macro keyboard thanks to an arduino pro micro and some mechanical keyboard switches . The switches are programmed to go from F13 to F21. 
